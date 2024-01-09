@@ -1,0 +1,81 @@
+クラス名,題材,必須要素,入力,コピペ元コード,クラス数
+"","","System.out.println System.out.print System.out.printf"
+Work21,変数の初期化と再代入,"",False,False,1
+Work22,演算とキャスト,""
+Work23,条件文,if
+Work24,標準入力から文字列を読み込み数字として出力,"java.util.Scanner.next
+java.util.Scanner.nextLine
+Integer.parseInt
+java.util.Scanner.close"
+Work25,文字列の比較,"java.util.Scanner.nextLine java.util.Scanner.close String.equals",True,False
+Work26,標準入力から読み込みと、条件文,"java.util.Scanner.next
+if"
+Work27,うるう年の判定,if
+Work28,switch文,switch
+Work29,for文,for
+Work2a,while文,while
+Work31,最大値を求める,Math.max
+Work32,生まれた年を予想する,System.out.println
+Work33,生まれた年を予想する,"java.util.Scanner.next
+java.util.Scanner.nextInt"
+Work34,キーボードから文字と整数の入力を受け付ける,java.util.Scanner.next
+Work35,import文を利用する,java.util.Arrays.sort array
+Work36,入力されたを取得する,String.length
+Work37,大きい方を表示する,Math.max,False,False
+Work38,最大値を表示する,Math.max,False,False
+Work39,文字列の長さの分だけ文字を表示する,String.length
+Work3a,入力した段数の三角形を表示する,java.util.Scanner.next
+Work3b,入力した段数の二等辺三角形を表示する,for
+Work41,配列の表示,java.util.Arrays.fill
+Work42,偶数/奇数の数を表示,"for
+if"
+Work43,最大値/最小値/平均値の表示,"for
+if"
+Work44,出現順位×要素値の最小値/最大値の表示,"for
+if"
+Work45,自己紹介,"java.util.Scanner.next
+java.util.Scanner.nextLine"
+Work46,集合間での要素総当たりの割り算,for
+Work47,ソート（並べ替え）,"for
+if"
+Work48,三角形の構成判定,"for
+if"
+Work49,健康チェック,String.format
+Work4a,配列の要素同士の演算,java.util.Scanner.next
+Work51,メソッドの復習,""
+Work52,オーバーロードするメソッドの定義,""
+Work53,オーバーロードするメソッドの定義,""
+Work54,配列に格納された値を操作するメソッドの定義,""
+Work55,配列に格納された値を操作するメソッドの定義,""
+Work56,コマンドライン引数を使うプログラム,""
+Work57,コマンドライン引数を使うプログラム,""
+"Work61",複数のファイルで構成されるプログラムの作成,"",True,True,2*
+"Work62
+Point61",クラスにメソッドを追加する,""
+Work63,フィールドやフィールドを操作するメソッドの追加,"",True,True,2*
+Work64,"final キーワードによる定数",""
+Work65,"複数のインスタンスを new で生成する",""
+Work66,"複数のインスタンスを new で生成する",""
+Work67,複数のインスタンスに対する様々な処理を実装する,""
+Work68,複数のインスタンスに対する様々な処理を実装する,""
+Work69,複数のインスタンスに対する様々な処理を実装する,""
+WorkA1,多態性(1),"",False,True,2*
+WorkA2,多態性(2),"",False,True,2*
+WorkA3,アクセス制御とカプセル化,"",False,True,2*
+WorkA4,アクセス制御とカプセル化,"java.util.Scanner.nextInt java.util.Scanner.close",True,True,2*
+WorkA5,配列の復習と応用,"java.util.Scanner.nextInt java.util.Scanner.close",True,True,2*
+WorkA6,アクセス制御とカプセル化、配列の復習と応用,"java.util.Scanner.next java.util.Scanner.close",True,True,2*
+WorkA7,複数のファイルで構成されるプログラムの作成,"",False,True,2*
+WorkA8,複数のファイルで構成されるプログラムの作成,"java.util.Scanner.nextInt java.util.Scanner.close",True,True,2*
+"","","java.util.ArrayList.add java.util.ArrayList.get java.util.ArrayList.size"
+WorkB1,配列からArrayListへ,"java.util.ArrayList.add java.util.ArrayList.get",False,True,1
+WorkB2,基本データ型を含むArrayListの宣言と要素の追加・取得,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get",True,False,1
+WorkB3,ArrayListの調査,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add  java.util.ArrayList.indexOf",True,False,1
+WorkB4,要素の調査と削除,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get java.util.ArrayList.size java.util.ArrayList.contains java.util.ArrayList.remove",True,True,1
+"","","String.toUpperCase String.toLowerCase String.substring String.indexOf String.contains String.replace"
+WorkB5,文字列の検索と変換,"java.util.Scanner.nextLine java.util.Scanner.close",True,False,1
+WorkB6,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.size",True,True,2*
+WorkB7,独自クラスを格納するArrayListと文字列操作,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
+WorkB8,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
+WorkB9,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
+WorkBa,独自クラスを格納するArrayList,"java.util.Scanner.next java.util.Scanner.close java.util.ArrayList.add",True,True,2*
