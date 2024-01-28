@@ -1,6 +1,6 @@
-クラス名,題材,必須要素,入力,コピペ元コード,クラス数
+クラス名,題材,必須要素,入力,ベースファイル,クラス数
 "","","System.out.println System.out.print System.out.printf"
-Work21,変数の初期化と再代入,"",False,False,1
+Work21,変数の初期化と再代入,"",False,True,1
 Work22,演算とキャスト,""
 Work23,条件文,if
 Work24,標準入力から文字列を読み込み数字として出力,"java.util.Scanner.next
