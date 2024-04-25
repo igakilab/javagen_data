@@ -6,7 +6,7 @@ Work23,条件文,if
 Work24,標準入力から文字列を読み込み数字として出力,"java.util.Scanner.next
 java.util.Scanner.nextLine
 Integer.parseInt
-java.util.Scanner.close"
+java.util.Scanner.close",True,True,1
 Work25,文字列の比較,"java.util.Scanner.nextLine java.util.Scanner.close String.equals",True,False
 Work26,標準入力から読み込みと、条件文,"java.util.Scanner.next
 if"
