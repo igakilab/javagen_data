@@ -13,7 +13,7 @@ if"
 Work27,うるう年の判定,if
 Work28,switch文,switch
 Work29,for文,for
-Work2a,while文,while
+Work2a,while文,while,False,False,1
 Work31,最大値を求める,Math.max
 Work32,生まれた年を予想する,System.out.println
 Work33,生まれた年を予想する,"java.util.Scanner.next
@@ -67,14 +67,13 @@ WorkA5,配列の復習と応用,"java.util.Scanner.nextInt java.util.Scanner.clo
 WorkA6,アクセス制御とカプセル化、配列の復習と応用,"java.util.Scanner.next java.util.Scanner.close",True,True,2*
 WorkA7,複数のファイルで構成されるプログラムの作成,"",False,True,2*
 WorkA8,複数のファイルで構成されるプログラムの作成,"java.util.Scanner.nextInt java.util.Scanner.close",True,True,2*
-"","","java.util.ArrayList.add java.util.ArrayList.get java.util.ArrayList.size"
-WorkB1,配列からArrayListへ,"java.util.ArrayList.add java.util.ArrayList.get",False,True,1
-WorkB2,基本データ型を含むArrayListの宣言と要素の追加・取得,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get",True,False,1
-WorkB3,ArrayListの調査,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add  java.util.ArrayList.indexOf",True,False,1
-WorkB4,要素の調査と削除,"java.util.Scanner.next|java.util.Scanner.nextInt java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get java.util.ArrayList.size java.util.ArrayList.contains java.util.ArrayList.remove",True,True,1
-"","","String.toUpperCase String.toLowerCase String.substring String.indexOf String.contains String.replace"
-WorkB5,文字列の検索と変換,"java.util.Scanner.nextLine java.util.Scanner.close",True,False,1
-WorkB6,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.size",True,True,2*
+WorkA9,複数のファイルで構成されるプログラムの作成,"java.util.Scanner.nextInt java.util.Scanner.close",True,False,2*
+WorkB1,基本データ型や文字列型を含むArrayListの要素の追加方法と取得方法,"(java.util.Scanner.next|java.util.Scanner.nextInt) java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get",True,False,1
+WorkB2,配列とArrayListにおける要素の追加方法と取得方法の違い,"java.util.ArrayList.add java.util.ArrayList.get",False,False,1
+WorkB3,ArrayListに含まれる要素の調査方法,"(java.util.Scanner.next|java.util.Scanner.nextInt) java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.indexOf",True,False,1
+WorkB4,ArrayListに含まれる要素の調査方法と削除方法,"(java.util.Scanner.next|java.util.Scanner.nextInt) java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.get java.util.ArrayList.size java.util.ArrayList.contains java.util.ArrayList.remove",True,False,1
+WorkB5,多様な文字列ライブラリを活用した文字列の検索方法と置換方法,"java.util.Scanner.nextLine java.util.Scanner.close (String.replace|String.substring|String.toUpperCase|String.toLowerCase) (String.indexOf|String.contains)",True,False,1
+WorkB6,ユーザ定義クラスを格納するArrayListの活用方法,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add java.util.ArrayList.size",True,False,2*
 WorkB7,独自クラスを格納するArrayListと文字列操作,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
 WorkB8,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
 WorkB9,独自クラスを格納するArrayList,"java.util.Scanner.nextLine java.util.Scanner.close java.util.ArrayList.add",True,True,2*
